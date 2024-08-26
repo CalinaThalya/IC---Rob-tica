@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nome": "Administrador",
+      "email": "admin@teste.com",
+      "senha": "abc123"
+    },
+    {
+      "id": "4987",
+      "nome": "Vini",
+      "email": "vini@gmail.com",
+      "senha": "123"
+    },
+    {
+      "id": "0f61",
+      "nome": "Calina",
+      "email": "thalya@gmail.com",
+      "senha": "abc123"
+    }
+  ],
+  "vazamentos": [
+    {
+      "title": "Vazamento de oleo",
+      "description": "Perto da petrobras, na cede de São Paulo",
+      "id": "1"
+    },
+    {
+      "id": "a87d",
+      "title": "derramamento de liquido",
+      "description": "um liquido marrom, escuro espesso caio na região proximo á copacabana, aparentemente estava vazando de um navio"
+    }
+  ]
+}

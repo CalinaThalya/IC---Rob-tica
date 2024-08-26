@@ -1,0 +1,13 @@
+
+## GRUPO
+
+rm552523 - Calina Thalya Santana da Silva
+
+rm552539 - NATHAN NUNES CALSONARI
+
+rm552513 - ANA PAULA NASCIMENTO SILVA
+
+rm99646 - Geovana Ribeiro Domingos Silva
+
+rm552537 - LEONARDO CAMARGO LUCENA
+
